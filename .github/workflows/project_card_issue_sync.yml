@@ -3,6 +3,7 @@ name: 'Sync project card status to issues'
 on:
   project_card:
     types: [created, edited, moved]
+  workflow_dispatch:
 
 permissions:
   repository-projects: read
