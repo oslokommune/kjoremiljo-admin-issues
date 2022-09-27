@@ -1,5 +1,5 @@
 ---
-name: Admin issue
+name: Issue
 about: En mal for hvordan vi ønsker å beskrive issues
 title: ''
 labels: ''
