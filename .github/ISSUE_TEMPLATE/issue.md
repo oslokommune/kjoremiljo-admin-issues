@@ -13,4 +13,4 @@ assignees: ''
 
 # Motivasjon
 
-<!-- Hvorfor ønsker vi denne endringen? -->
+<!-- Hvorfor ønsker vi gjøre det som issuet beskriver? -->
