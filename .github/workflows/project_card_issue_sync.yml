@@ -17,6 +17,6 @@ jobs:
       - uses: dessant/issue-states@v2
         with:
             github-token: ${{ github.token }}
-            open-issue-columns: 'Work In Progress 🏗, Focus 🫖, Dark Pool 🕳, Backlog 😪'
+            open-issue-columns: 'Work In Progress 🏗, Focus 🫖, Backlog 😪'
             closed-issue-columns: 'Completed 🦾'
             log-output: false
