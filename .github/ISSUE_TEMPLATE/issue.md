@@ -3,7 +3,7 @@ name: Issue
 about: En mal for hvordan vi ønsker å beskrive issues
 title: ''
 labels: ''
-assignees: ''
+assignees: '@oslokommune/kjoremiljo'
 
 ---
 
