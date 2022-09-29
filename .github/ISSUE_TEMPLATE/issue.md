@@ -1,9 +1,9 @@
 ---
-name: Issue
+name: Standard issue
 about: En mal for hvordan vi ønsker å beskrive issues
 title: ''
 labels: ''
-assignees: '@oslokommune/kjoremiljo'
+assignees: ''
 
 ---
 
